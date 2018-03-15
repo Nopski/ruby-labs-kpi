@@ -1,4 +1,4 @@
-To use Lab1 you should install WEBrick. It is a library to launch server!!!
+To use Lab1 you should install WEBrick. It is a library which helps you to launch server!!!
 
 
 
